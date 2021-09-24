@@ -7,14 +7,14 @@ This repository will contain revision concepts and a few exercises on probabilit
   Image credit: <a href="https://www.coursera.org/learn/introductiontoprobability">Coursera</a>
 </p>
 
-This is a study group of @rusty-election and @ReboreExplore where we take up weekly tasks to revise a probability concept intuitively. 
+This is a study group of @rusty-electron and @ReboreExplore where we take up weekly tasks to revise a probability concept intuitively. 
 ### How we do it?:
 1. Each week we study a particular topic in this domain. This topic is decided in the meeting we do at the start of each week.
 2. We try to simulate the probabilistic occurances like Belford's Law, Monty Hall Problem etc for real life data using any data interpretation and visualization framework.
 3. At the end of the week we discuss our topics and upload the curated report for future reference. 
 
-### Reference Course : 
-1. [A Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability/home/welcome)" by Prof Karl Schmedders.
+### Reference Course: 
+1. [A Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability/home/welcome) by Prof Karl Schmedders.
 2. [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 
 ### Objective
